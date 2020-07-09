@@ -468,6 +468,7 @@ checks:
           - tpaccept
           - tphere
           - tpaccept
+          - tpyes
           - home
           - wild
           - randomtp
